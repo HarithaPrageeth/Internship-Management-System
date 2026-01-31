@@ -1,0 +1,5 @@
+body { background: #f0f8ff; font-family:'Segoe UI'; }
+.navbar { background: linear-gradient(90deg,#4da6ff,#ffd633); color:#000; }
+.btn-primary { background-color:#4da6ff; border:none; }
+.btn-success { background-color:#ffd633; border:none; color:#000; }
+.card { border-radius:12px; padding:15px; margin-bottom:15px; box-shadow:0 0 10px rgba(0,0,0,0.1); }
