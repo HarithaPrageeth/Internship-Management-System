@@ -1,5 +1,4 @@
 # Internship-Management-System
-# Internship Management System
 
 A complete web-based platform for managing internships, connecting students with companies. Built with **HTML, CSS, PHP, and MySQL** for localhost deployment.
 
